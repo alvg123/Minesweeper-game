@@ -1,0 +1,1 @@
+A mimic of the popular Minesweeper game, where you have to flag all the cells that have mines in them. A cell revelation would either explode you (you lose), or reveal the surrounding cells that have mines next to them, with the cell numbers revealing the number of mines adajcent to them. Uses the javalib.jar and tester.jar libraries.
